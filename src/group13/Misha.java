@@ -1,6 +1,6 @@
-package group13.misha;
+package group13;
 
-public class HallowWorld {
+public class Misha {
     public static void main(String[] args) {
         System.out.println("Hallow World");
         //dog
